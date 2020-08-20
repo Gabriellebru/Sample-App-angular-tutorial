@@ -1,0 +1,16 @@
+angular cli
+
+criar um novo projeto - ng new nomeDoProjeto
+criar um componente - ng generate component nomeDoComponente
+criar uma service - ng generate service nomeDaService
+
+rodar o projeto - ng serve
+
+
+GIT
+
+adicionar uma origin remota ->      git remote add origin URL-DO-REPOSITORIO
+verificar status de trabalho ->     git status
+adicionar arquivos para commit ->   git add .  <- dessa forma ira publicar tudo
+fazer uma commit ->                 git commit -m "COMENTARIO"
+publicar uma commit na origin ->    git push origin master
