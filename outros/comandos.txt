@@ -10,7 +10,12 @@ rodar o projeto - ng serve
 GIT
 
 adicionar uma origin remota ->      git remote add origin URL-DO-REPOSITORIO
+
 verificar status de trabalho ->     git status
 adicionar arquivos para commit ->   git add .  <- dessa forma ira publicar tudo
 fazer uma commit ->                 git commit -m "COMENTARIO"
 publicar uma commit na origin ->    git push origin master
+
+GH-PAGES
+
+publicar a pagina online no ghpages-> ng deploy
